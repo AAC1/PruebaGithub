@@ -7,7 +7,7 @@ public class Main {
 		op.a=8;
 		op.b=4;
 		System.out.println(clase.opGral(op));
-		System.out.println("Buuu");
+		
 		
 	}
 
